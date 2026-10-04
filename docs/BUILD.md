@@ -36,4 +36,4 @@ Estimated time: 60–90 minutes across both phases.
 6. Run [`FAILURE-LAB.md`](FAILURE-LAB.md).  
 7. Save screenshots under `assets/screenshots/`.
 
-Save your `.pkt` locally only (gitignored).
+The working `Lab-3-OSPF-Network.pkt` topology is committed in the repo root.
