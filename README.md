@@ -8,7 +8,7 @@
 | **Candidate** | [Kazi Nafis Nawaz](https://github.com/kn2702-sys) · MCA (Networking) |
 | **Stack** | Cisco Packet Tracer · Static routing · OSPF Area 0 |
 | **Why it exists** | Résumé claims static/dynamic routing — this lab proves path selection and convergence |
-| **Series** | [LAB 1](https://github.com/kn2702-sys/enterprise-vlan-lab) · [LAB 2](https://github.com/kn2702-sys/dhcp-dns-failure-lab) · **LAB 3** |
+| **Series** | [LAB 1](https://github.com/kn2702-sys/enterprise-vlan-lab) · [LAB 2](https://github.com/kn2702-sys/dhcp-dns-failure-lab) · **LAB 3** · [LAB 4](https://github.com/kn2702-sys/LAB-4-ACL-NAT-Internet-Edge) · [LAB 5](https://github.com/kn2702-sys/LAB-5-Site-to-Site-VPN-Firewall) · [LAB 6](https://github.com/kn2702-sys/LAB-6-Wireshark-NOC-Troubleshooting) · [LAB 7](https://github.com/kn2702-sys/LAB-7-NOC-Incident-Simulation) |
 
 Portfolio lab only — not a production employment claim.
 
