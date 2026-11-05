@@ -96,7 +96,7 @@ Router IDs: **R1 `1.1.1.1`** · **R2 `2.2.2.2`** · **R3 `3.3.3.3`**
 4. Run FAILURE-LAB.md → capture screenshots
 ```
 
-No `.pkt` in git. Configs are the source of truth.
+A generated `.pkt` (`Lab-3-OSPF-Network.pkt`) is committed in git, generated from the configs in this repo. Configs are the source of truth. It has not yet been opened/tested in real Cisco Packet Tracer.
 
 ---
 
