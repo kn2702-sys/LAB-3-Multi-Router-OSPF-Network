@@ -1,5 +1,7 @@
 # LAB 3: Multi-Router OSPF Network
 
+![Multi-Router OSPF Network — Static → OSPF Area 0 → Failure & Convergence](assets/social-preview.png)
+
 > **Routing intuition for NOC / Network Support interviews**  
 > Static routes first. Then OSPF. Then break a link and watch the table change.
 
